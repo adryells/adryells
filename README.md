@@ -6,11 +6,11 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently developing in the stack = [Flask, SQLAlchemy, GraphQL].
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
@@ -32,6 +32,6 @@
 
 *OBS onde está escrito em maiúsculo você deve escrever suas informações:
 
-(SEU NOME) = Hellen.
+(SEU NOME) = Paulo Adryell.
 
-LINK_GIT = https://github.com/hellenmas.
+LINK_GIT = https://github.com/adryells.
