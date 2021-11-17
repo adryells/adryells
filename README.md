@@ -15,12 +15,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryells&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Interested in:
-
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 <hr>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adryells)](https://github.com/adryells) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)]( LINK_LINKEDIN)
