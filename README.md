@@ -6,14 +6,12 @@
 
  
 
-:computer: Back-End Developer
+:computer: Back-End Developer in [Puzzl Software House <3](https://www.puzzl.com.br)
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently developing in the stack = [Flask, SQLAlchemy, GraphQL].
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adryells&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <hr>
 
