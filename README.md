@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adryellsz</h1>
-<h3 align="center">Python Back-end Developer</h3>
+<h3 align="center">Back-end Developer</h3>
 
 - 🔭 I’m currently working at [Puzzl](https://www.puzzl.com.br/)
 
