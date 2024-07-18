@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hello, I'm Adryell, a Back-end Developer focused on web Python frameworks. I have experience with Rest and GraphQL APIs, and PostgreSQL. I use Xubuntu <3 as my primary operating system. Currently, I am learning Java / Spring Boot Framework.
+Hello, I'm Adryell, a Back-end Developer focused on web Python frameworks. I have experience with Rest and GraphQL APIs, and PostgreSQL. I use Xubuntu <3 as my primary operating system. Currently, I am learning GO and Java / Spring Boot Framework.
 
 Furthermore, I am very interested in studying Artificial Intelligence/Machine Learning and Game Development in the future.
 Fun fact: I'm a big fan of One Piece and São Paulo FC. I also enjoy artistic styles like vaporwave, shitposting, and shittrap.
